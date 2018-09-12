@@ -6,11 +6,11 @@ import org.springframework.stereotype.Component;
 
 @Component
 @Scope(ConfigurableBeanFactory.SCOPE_SINGLETON)
-public class SgtPeppers implements CD {
+public class CdComponent implements CD {
     private String title =  "断点";
     private String artist = "张敬轩";
     public void play(){
-        System.out.println("playing"+artist+" "+title);
+        System.out.println("Component "+artist+" "+title);
     }
     public void play(String title){
         this.title = title;

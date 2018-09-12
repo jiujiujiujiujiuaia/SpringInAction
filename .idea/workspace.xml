@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9359ebe6-9ffa-4c52-8729-038ed1e2d3af" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/chapter2/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/spring/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/chapter2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/chapter2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter2/soundSystem/CDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/CDTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter2/soundSystem/cd/CD.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/CD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter2/soundSystem/cd/CDConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/CDConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter2/soundSystem/cd/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/Disk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter2/soundSystem/cd/SgtPeppers.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/SgtPeppers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter2/soundSystem/cdPlayer/CdPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cdPlayer/CdPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter2/soundSystem/cdPlayer/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cdPlayer/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter2/soundSystem/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter3/Cd.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter3/Cd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter3/CdConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter3/CdConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/chapter3/CdTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter3/CdTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter2/soundSystem/CDTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter2/soundSystem/CDTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter2/soundSystem/cd/CD.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter2/soundSystem/cd/CD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter2/soundSystem/cd/CDConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter2/soundSystem/cd/CDConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter2/soundSystem/cd/Disk.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter2/soundSystem/cd/Disk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter2/soundSystem/cd/SgtPeppers.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter2/soundSystem/cd/SgtPeppers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter2/soundSystem/cdPlayer/CdPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter2/soundSystem/cdPlayer/CdPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter2/soundSystem/cdPlayer/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter2/soundSystem/cdPlayer/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter3/Cd.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter3/Cd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter3/CdConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter3/CdConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/target/classes/chapter3/CdTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/chapter3/CdTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/CDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/test/CDTest.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/spring/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,43 +14,152 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CdTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter3/CdTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CdConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter3/CdConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter3/Cd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/SgtPeppers.java" />
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/Cd2.java" />
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cdPlayer/CdPlayer.java" />
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/CdNotComponent.java" />
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/CDConfig.java" />
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/test/CDTest.java" />
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/CdComponent.java" />
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/note.txt" />
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter3/CdTest.java" />
+        <option value="$PROJECT_DIR$/spring/src/main/java/chapter3/CdConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/software/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ycw Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="1316" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="spring_in_action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_in_action" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="spring_in_action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_in_action" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -91,9 +173,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CdTest.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CDTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ycw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.soundSystem.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="chapter2.soundSystem.test" />
+      <option name="MAIN_CLASS_NAME" value="chapter2.soundSystem.test.CDTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CDTest.testCd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ycw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.soundSystem.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="chapter2.soundSystem.test" />
+      <option name="MAIN_CLASS_NAME" value="chapter2.soundSystem.test.CDTest" />
+      <option name="METHOD_NAME" value="testCd" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CdTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ycw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="chapter3" />
+      <option name="MAIN_CLASS_NAME" value="chapter3.CdTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -133,6 +284,18 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.CDTest.testCd" />
+      <item itemvalue="JUnit.CDTest.test" />
+      <item itemvalue="JUnit.CdTest.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CdTest.test" />
+        <item itemvalue="JUnit.CDTest.testCd" />
+        <item itemvalue="JUnit.CDTest.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -147,35 +310,69 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 41m 28s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 41m 35s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 41m 47s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 43m 57s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 44m 05s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 47m 00s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 47m 11s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 47m 18s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 47m 33s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDTest_testCd - 2018.09.12 at 16h 47m 42s.xml">
+      <configuration name="CDTest.testCd" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="JRebel Executor" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961832" />
-      <window_info id="JRebel" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3298969" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.03129771" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36941582" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31374046" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -183,11 +380,205 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cdPlayer/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/test/CDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/CD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/CDConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cdPlayer/CdPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/CdNotComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter2/soundSystem/cd/CdComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter3/Cd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter3/CdConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/chapter3/CdTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring_in_action</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,16 +1,21 @@
+一：
 这一章主要讲述了bean装配方法
-主要倾向了javaConfig和spring隐式装配以及测试是否装配成功了
+1 通过注解@configuration，@Bean显示的进行装配
+2 通过@Component隐式的进行装配(还有很多类似的注解 如@service,@Repository,@mapper)
+3 @ComponentScan表示要显式的去扫描那些有@Component注解的polo类
+二：
+在装配bean的时候，如果没有给@bean一个name属性的话就是以方法明为这个bean的id。
+如果只有一个bean被装配了，在test中只有一个注入（@autowired）那么就算是名字与id不符合也没有关系
+但是如果有了两个bean被装配，那么无论多少个被注入，都要保证装配的方法名和被注入名一致（大小写不能通过）
+但是也可以通过@bean name属性给这个bean手动设置id 那么这样的话只要保证被注入和这个id一致就可以了
 
-@Configuration @bean @Component @ComponentScan这些注解
-
-这里出现了一个问题
-1 如果说有多个类实现了一个接口 那么如果直接@autoWired这个接口且多个实现类都被装配 就会报错 因为就不知道是哪一个实现类 注入到这个接口中
+三
+如果说有多个类实现了一个接口 那么如果直接@autoWired这个接口且多个实现类都被装配 就会报错 因为就不知道是哪一个实现类 注入到这个接口中
 例如：
 @bean
 son1(实现了parent)
 @bean
 son2(实现了parent)
-
 @Autowired
 private Parent parent 那么就会报错
---后来看到了spring果然有解决的办法  利用@Qualifier在装配的时候解决这个问题
+--利用@Qualifier在装配的时候解决这个问题

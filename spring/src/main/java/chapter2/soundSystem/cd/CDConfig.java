@@ -10,19 +10,20 @@ import chapter2.soundSystem.cdPlayer.CdPlayer;
 public class CDConfig {
 
 //    @Bean
-//    public Disk disk(){
-//        return new Disk();
+//    public CdNotComponent cdNotComponent(){
+//        return new CdNotComponent();
 //    }
-    @Bean
-    public CdPlayer player(SgtPeppers sgtPeppers){
-        return new CdPlayer(sgtPeppers);
+
+    @Bean(name = "cdPlayerConstructor1")
+    public CdPlayer cdPlayerConstructor1(CdComponent cdComponent){
+        return new CdPlayer(cdComponent);
     }
-    @Bean
-    public CdPlayer play(SgtPeppers sgtPeppers){
-        return new CdPlayer(sgtPeppers);
+    @Bean(name = "cdPlayerNotConstructor")
+    public CdPlayer cdPlayerNotConstructor(){
+        return new CdPlayer();
     }
-//    @Bean
-//    public SgtPeppers sgtPeppers(){
-//        return new SgtPeppers();
-//    }
+    @Bean(name = "cdPlayerConstructor2")
+    public CdPlayer cdPlayerConstructor2(CdComponent cdComponent){
+        return new CdPlayer(cdComponent);
+    }
 }

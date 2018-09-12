@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes =CdConfig.class)
-//@ActiveProfiles("dev")
+@ActiveProfiles("dev")
 public class CdTest {
     @Autowired
     private Cd cd1;
