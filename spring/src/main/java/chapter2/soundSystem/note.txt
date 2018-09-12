@@ -1,0 +1,16 @@
+这一章主要讲述了bean装配方法
+主要倾向了javaConfig和spring隐式装配以及测试是否装配成功了
+
+@Configuration @bean @Component @ComponentScan这些注解
+
+这里出现了一个问题
+1 如果说有多个类实现了一个接口 那么如果直接@autoWired这个接口且多个实现类都被装配 就会报错 因为就不知道是哪一个实现类 注入到这个接口中
+例如：
+@bean
+son1(实现了parent)
+@bean
+son2(实现了parent)
+
+@Autowired
+private Parent parent 那么就会报错
+--后来看到了spring果然有解决的办法  利用@Qualifier在装配的时候解决这个问题
