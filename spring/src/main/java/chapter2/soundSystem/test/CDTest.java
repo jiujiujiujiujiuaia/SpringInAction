@@ -14,12 +14,12 @@ import chapter2.soundSystem.cdPlayer.CdPlayer;
 public class CDTest {
     @Autowired
     private CD cd;
-    @Autowired
-    private CdPlayer cdPlayerConstructor1;
-    @Autowired
-    private CdPlayer cdPlayerConstructor2;
-    @Autowired
-    private CdPlayer cdPlayerNotConstructor;
+//    @Autowired
+//    private CdPlayer cdPlayerConstructor1;
+//    @Autowired
+//    private CdPlayer cdPlayerConstructor2;
+//    @Autowired
+//    private CdPlayer cdPlayerNotConstructor;
 
     @Test
     public void testCd(){
@@ -29,14 +29,14 @@ public class CDTest {
         cd.play();
     }
 
-    @Test
-    public void testWireSingleton(){
-        //这证明了Bean装配的是同一个Bean，也就是单例注入
-        cdPlayerConstructor1.play();
-        cdPlayerConstructor2.play("singel");
-        cdPlayerConstructor1.play();
-    }
-    @Test
+//    @AopTest
+//    public void testWireSingleton(){
+//        //这证明了Bean装配的是同一个Bean，也就是单例注入
+//        cdPlayerConstructor1.play();
+//        cdPlayerConstructor2.play("singel");
+//        cdPlayerConstructor1.play();
+//    }
+//    @AopTest
     public void player(){
 
     }

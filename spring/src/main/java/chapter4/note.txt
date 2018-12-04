@@ -1,0 +1,2 @@
+1 spring 不支持细颗粒都的aop声明 也就是说只支持了对于方法的aop声明 某一个字段的修改
+spring aop不支持（AspectJ支持）

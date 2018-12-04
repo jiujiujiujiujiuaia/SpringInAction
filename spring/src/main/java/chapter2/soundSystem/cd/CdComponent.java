@@ -3,8 +3,9 @@ package chapter2.soundSystem.cd;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component
+@Service
 @Scope(ConfigurableBeanFactory.SCOPE_SINGLETON)
 public class CdComponent implements CD {
     private String title =  "断点";
@@ -15,4 +16,5 @@ public class CdComponent implements CD {
     public void play(String title){
         this.title = title;
     }
+
 }
